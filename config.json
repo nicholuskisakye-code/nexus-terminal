@@ -1,0 +1,30 @@
+{
+    "theme": "default",
+    "widgets": [
+        {
+            "type": "clock",
+            "x": 2,
+            "y": 2
+        },
+        {
+            "type": "cpu_usage",
+            "x": 2,
+            "y": 4
+        },
+        {
+            "type": "ram_usage",
+            "x": 2,
+            "y": 6
+        },
+        {
+            "type": "network_speed",
+            "x": 2,
+            "y": 8
+        },
+        {
+            "type": "random_quote",
+            "x": 2,
+            "y": 10
+        }
+    ]
+}
